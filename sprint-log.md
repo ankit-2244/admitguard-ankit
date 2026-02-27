@@ -66,3 +66,20 @@ Enables risk-aware admissions instead of binary rejection logic.
 Transforms the system into a configurable compliance engine where policy changes can be applied instantly without modifying core logic.
 
 **Status:** Completed
+
+
+## Sprint 4 (Audit Logging & Compliance Tracking)
+
+**Goal:** Implement submission tracking and compliance audit system.
+
+**Completed:**
+- Created structured audit object
+- Implemented risk classification (Low / Medium / High)
+- Stored submissions in localStorage
+- Built persistent audit log viewer
+- Added clear log functionality
+
+**Business Impact:**
+Provides traceability, accountability, and compliance monitoring for admission decisions.
+
+**Status:** Completed
