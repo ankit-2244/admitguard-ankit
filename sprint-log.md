@@ -14,3 +14,19 @@
 Prioritize Must-Have functional requirements before UI polish.
 
 **Status:** Completed
+
+## Sprint 1 (Strict Validation Engine)
+
+**Goal:** Implement mandatory business rules to prevent invalid admissions.
+
+**Completed:**
+- Inline real-time validation for core fields
+- Conditional blocking for rejected candidates
+- Aadhaar and phone strict format checks
+- Offer letter dependency logic
+- Submit button activation control
+
+**Business Impact:**
+Prevents ineligible candidates from entering the pipeline.
+
+**Status:** Completed
