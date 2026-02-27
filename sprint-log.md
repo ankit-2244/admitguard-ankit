@@ -30,3 +30,21 @@ Prioritize Must-Have functional requirements before UI polish.
 Prevents ineligible candidates from entering the pipeline.
 
 **Status:** Completed
+
+
+## Sprint 2 (Soft Rules & Risk Engine)
+
+**Goal:** Introduce non-blocking validation rules with risk scoring.
+
+**Completed:**
+- Age eligibility warning (under 18)
+- Graduation year future check
+- Minimum percentage / CGPA validation
+- Low screening score warning
+- Exception counter system
+- High-risk application banner (>2 violations)
+
+**Business Impact:**
+Enables risk-aware admissions instead of binary rejection logic.
+
+**Status:** Completed
